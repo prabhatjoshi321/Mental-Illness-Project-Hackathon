@@ -10,6 +10,8 @@ This was my **Flutter based** project. The tools used in this project are **Flut
 * **Login/Register** feature implemented with the help of **Firebase**.
 * Chat UI.
 * Social Authentication
+* Custom Icon and Splash screen
+* Notification Support
 
 ## Screenshots
 
